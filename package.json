@@ -2,7 +2,7 @@
   "name": "camscan_texto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tu-nombre-de-usuario.github.io/nombre-del-repositorio",
+  "homepage": "https://lucasibar.github.io/CamScan_Texto/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
